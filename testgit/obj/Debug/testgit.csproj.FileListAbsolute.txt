@@ -1,5 +1,0 @@
-C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\testgit\testgit\bin\Debug\testgit.exe
-C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\testgit\testgit\bin\Debug\testgit.pdb
-C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\testgit\testgit\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\testgit\testgit\obj\Debug\testgit.exe
-C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\testgit\testgit\obj\Debug\testgit.pdb
