@@ -9,8 +9,11 @@ namespace testgit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Second try");
-            Console.ReadKey();
+            Warrior war = new Warrior("Katarina");
+            war.MaxHealth = 650;
+            war.MaxAttackSpeed = 1.6;
+            war.MaxArmor = 35;
+            war.MaxAP = 0;
         }
     }
 }
