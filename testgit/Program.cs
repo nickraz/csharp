@@ -14,7 +14,6 @@ namespace testgit
             war.MaxAttackSpeed = 1.6;
             war.MaxArmor = 35;
             war.MaxAP = 0;
-            war.MaxAttackSpeed = 1.5;
         }
     }
 }
