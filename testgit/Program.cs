@@ -14,6 +14,10 @@ namespace testgit
             war.MaxAttackSpeed = 1.6;
             war.MaxArmor = 35;
             war.MaxAP = 0;
+
+            Warrior lb = new Warrior("Lb");
+            lb.CurAD = 80;
+            lb.CurAP = 500;
         }
     }
 }
